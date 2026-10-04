@@ -1,1 +1,7 @@
-# zzy-HighschoolCompetitionShow
+ # 如果你看到了这个README文件，说明你应该对我有点兴趣了hhh # 
+
+  这个仓库里是一些我之前打AI比赛的部分notebook用于展示，包括：APOAI，NOAI和AI4S这三个比赛（不过仓库里只有两个文件）
+
+  ### 希望你能在这些notebook里看到我的水平，同时欢迎看我主页里参与的其他项目。 ###  
+
+  *ps :相较于其他大一的本科生，我觉得我还是算会用git的那种。*
